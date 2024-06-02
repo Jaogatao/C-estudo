@@ -1,0 +1,15 @@
+C:\Users\Antônio\Desktop\PWC\bin\Debug\net7.0\PWC.exe
+C:\Users\Antônio\Desktop\PWC\bin\Debug\net7.0\PWC.deps.json
+C:\Users\Antônio\Desktop\PWC\bin\Debug\net7.0\PWC.runtimeconfig.json
+C:\Users\Antônio\Desktop\PWC\bin\Debug\net7.0\PWC.dll
+C:\Users\Antônio\Desktop\PWC\bin\Debug\net7.0\PWC.pdb
+C:\Users\Antônio\Desktop\PWC\obj\Debug\net7.0\PWC.csproj.AssemblyReference.cache
+C:\Users\Antônio\Desktop\PWC\obj\Debug\net7.0\PWC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio\Desktop\PWC\obj\Debug\net7.0\PWC.AssemblyInfoInputs.cache
+C:\Users\Antônio\Desktop\PWC\obj\Debug\net7.0\PWC.AssemblyInfo.cs
+C:\Users\Antônio\Desktop\PWC\obj\Debug\net7.0\PWC.csproj.CoreCompileInputs.cache
+C:\Users\Antônio\Desktop\PWC\obj\Debug\net7.0\PWC.dll
+C:\Users\Antônio\Desktop\PWC\obj\Debug\net7.0\refint\PWC.dll
+C:\Users\Antônio\Desktop\PWC\obj\Debug\net7.0\PWC.pdb
+C:\Users\Antônio\Desktop\PWC\obj\Debug\net7.0\PWC.genruntimeconfig.cache
+C:\Users\Antônio\Desktop\PWC\obj\Debug\net7.0\ref\PWC.dll
