@@ -1,0 +1,30 @@
+C:\Users\Antônio\Desktop\Geometria Círculo\bin\Debug\net7.0\Geometria Círculo.exe
+C:\Users\Antônio\Desktop\Geometria Círculo\bin\Debug\net7.0\Geometria Círculo.deps.json
+C:\Users\Antônio\Desktop\Geometria Círculo\bin\Debug\net7.0\Geometria Círculo.runtimeconfig.json
+C:\Users\Antônio\Desktop\Geometria Círculo\bin\Debug\net7.0\Geometria Círculo.dll
+C:\Users\Antônio\Desktop\Geometria Círculo\bin\Debug\net7.0\Geometria Círculo.pdb
+C:\Users\Antônio\Desktop\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.csproj.AssemblyReference.cache
+C:\Users\Antônio\Desktop\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio\Desktop\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.AssemblyInfoInputs.cache
+C:\Users\Antônio\Desktop\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.AssemblyInfo.cs
+C:\Users\Antônio\Desktop\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.csproj.CoreCompileInputs.cache
+C:\Users\Antônio\Desktop\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.dll
+C:\Users\Antônio\Desktop\Geometria Círculo\obj\Debug\net7.0\refint\Geometria Círculo.dll
+C:\Users\Antônio\Desktop\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.pdb
+C:\Users\Antônio\Desktop\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.genruntimeconfig.cache
+C:\Users\Antônio\Desktop\Geometria Círculo\obj\Debug\net7.0\ref\Geometria Círculo.dll
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\bin\Debug\net7.0\Geometria Círculo.exe
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\bin\Debug\net7.0\Geometria Círculo.deps.json
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\bin\Debug\net7.0\Geometria Círculo.runtimeconfig.json
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\bin\Debug\net7.0\Geometria Círculo.dll
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\bin\Debug\net7.0\Geometria Círculo.pdb
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.csproj.AssemblyReference.cache
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.AssemblyInfoInputs.cache
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.AssemblyInfo.cs
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.csproj.CoreCompileInputs.cache
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.dll
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\obj\Debug\net7.0\refint\Geometria Círculo.dll
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.pdb
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\obj\Debug\net7.0\Geometria Círculo.genruntimeconfig.cache
+C:\Users\Antônio\Desktop\ESTUDO .NET\Geometria Círculo\obj\Debug\net7.0\ref\Geometria Círculo.dll

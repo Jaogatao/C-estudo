@@ -1,0 +1,15 @@
+C:\Users\Antônio\Desktop\Estoque c#\bin\Debug\net7.0\Estoque c#.exe
+C:\Users\Antônio\Desktop\Estoque c#\bin\Debug\net7.0\Estoque c#.deps.json
+C:\Users\Antônio\Desktop\Estoque c#\bin\Debug\net7.0\Estoque c#.runtimeconfig.json
+C:\Users\Antônio\Desktop\Estoque c#\bin\Debug\net7.0\Estoque c#.dll
+C:\Users\Antônio\Desktop\Estoque c#\bin\Debug\net7.0\Estoque c#.pdb
+C:\Users\Antônio\Desktop\Estoque c#\obj\Debug\net7.0\Estoque c#.csproj.AssemblyReference.cache
+C:\Users\Antônio\Desktop\Estoque c#\obj\Debug\net7.0\Estoque c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio\Desktop\Estoque c#\obj\Debug\net7.0\Estoque c#.AssemblyInfoInputs.cache
+C:\Users\Antônio\Desktop\Estoque c#\obj\Debug\net7.0\Estoque c#.AssemblyInfo.cs
+C:\Users\Antônio\Desktop\Estoque c#\obj\Debug\net7.0\Estoque c#.csproj.CoreCompileInputs.cache
+C:\Users\Antônio\Desktop\Estoque c#\obj\Debug\net7.0\Estoque c#.dll
+C:\Users\Antônio\Desktop\Estoque c#\obj\Debug\net7.0\refint\Estoque c#.dll
+C:\Users\Antônio\Desktop\Estoque c#\obj\Debug\net7.0\Estoque c#.pdb
+C:\Users\Antônio\Desktop\Estoque c#\obj\Debug\net7.0\Estoque c#.genruntimeconfig.cache
+C:\Users\Antônio\Desktop\Estoque c#\obj\Debug\net7.0\ref\Estoque c#.dll

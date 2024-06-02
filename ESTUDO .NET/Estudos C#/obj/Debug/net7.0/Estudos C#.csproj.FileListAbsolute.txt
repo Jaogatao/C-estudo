@@ -1,0 +1,15 @@
+C:\Users\Antônio\Desktop\Estudos C#\bin\Debug\net7.0\Estudos C#.exe
+C:\Users\Antônio\Desktop\Estudos C#\bin\Debug\net7.0\Estudos C#.deps.json
+C:\Users\Antônio\Desktop\Estudos C#\bin\Debug\net7.0\Estudos C#.runtimeconfig.json
+C:\Users\Antônio\Desktop\Estudos C#\bin\Debug\net7.0\Estudos C#.dll
+C:\Users\Antônio\Desktop\Estudos C#\bin\Debug\net7.0\Estudos C#.pdb
+C:\Users\Antônio\Desktop\Estudos C#\obj\Debug\net7.0\Estudos C#.csproj.AssemblyReference.cache
+C:\Users\Antônio\Desktop\Estudos C#\obj\Debug\net7.0\Estudos C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio\Desktop\Estudos C#\obj\Debug\net7.0\Estudos C#.AssemblyInfoInputs.cache
+C:\Users\Antônio\Desktop\Estudos C#\obj\Debug\net7.0\Estudos C#.AssemblyInfo.cs
+C:\Users\Antônio\Desktop\Estudos C#\obj\Debug\net7.0\Estudos C#.csproj.CoreCompileInputs.cache
+C:\Users\Antônio\Desktop\Estudos C#\obj\Debug\net7.0\Estudos C#.dll
+C:\Users\Antônio\Desktop\Estudos C#\obj\Debug\net7.0\refint\Estudos C#.dll
+C:\Users\Antônio\Desktop\Estudos C#\obj\Debug\net7.0\Estudos C#.pdb
+C:\Users\Antônio\Desktop\Estudos C#\obj\Debug\net7.0\Estudos C#.genruntimeconfig.cache
+C:\Users\Antônio\Desktop\Estudos C#\obj\Debug\net7.0\ref\Estudos C#.dll
