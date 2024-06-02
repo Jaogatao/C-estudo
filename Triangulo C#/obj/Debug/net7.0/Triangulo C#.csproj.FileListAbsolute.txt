@@ -1,0 +1,15 @@
+C:\Users\Antônio\Desktop\Triangulo C#\bin\Debug\net7.0\Triangulo C#.exe
+C:\Users\Antônio\Desktop\Triangulo C#\bin\Debug\net7.0\Triangulo C#.deps.json
+C:\Users\Antônio\Desktop\Triangulo C#\bin\Debug\net7.0\Triangulo C#.runtimeconfig.json
+C:\Users\Antônio\Desktop\Triangulo C#\bin\Debug\net7.0\Triangulo C#.dll
+C:\Users\Antônio\Desktop\Triangulo C#\bin\Debug\net7.0\Triangulo C#.pdb
+C:\Users\Antônio\Desktop\Triangulo C#\obj\Debug\net7.0\Triangulo C#.csproj.AssemblyReference.cache
+C:\Users\Antônio\Desktop\Triangulo C#\obj\Debug\net7.0\Triangulo C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio\Desktop\Triangulo C#\obj\Debug\net7.0\Triangulo C#.AssemblyInfoInputs.cache
+C:\Users\Antônio\Desktop\Triangulo C#\obj\Debug\net7.0\Triangulo C#.AssemblyInfo.cs
+C:\Users\Antônio\Desktop\Triangulo C#\obj\Debug\net7.0\Triangulo C#.csproj.CoreCompileInputs.cache
+C:\Users\Antônio\Desktop\Triangulo C#\obj\Debug\net7.0\Triangulo C#.dll
+C:\Users\Antônio\Desktop\Triangulo C#\obj\Debug\net7.0\refint\Triangulo C#.dll
+C:\Users\Antônio\Desktop\Triangulo C#\obj\Debug\net7.0\Triangulo C#.pdb
+C:\Users\Antônio\Desktop\Triangulo C#\obj\Debug\net7.0\Triangulo C#.genruntimeconfig.cache
+C:\Users\Antônio\Desktop\Triangulo C#\obj\Debug\net7.0\ref\Triangulo C#.dll
